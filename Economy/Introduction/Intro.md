@@ -84,3 +84,34 @@ PPC demonstrates:
 - trade-offs;
 - opportunity cost;
 - efficiency;
+
+#9/09/2022
+### Theoritical economics
+Economists use scientific methods to make generalisations to develop *theories*. -> **Theoretical economics**;
+The *theories* are then used to fix problems or meet some goals. -> **Policy economics**;
+
+### Positive vs. normative
+
+Positive -> based on **facts**; *avoids judgement*;
+Normative -> **includes judgement**;
+
+### Analyzing PPC
+
+*Straight line* -> constant oppportunity cost;
+*Bowed out* -> **Law of increasing opportunity cost** - as you produce more of any good, the opportunity cost will increase;
+
+### Efficiency
+
+**Production efficiency** -> products are being produced in the *cheapest way* (*any point on the PPC*);
+**Allocative efficiency** -> products being produced are the ones most *desired by society*;
+
+### Shifting the PPC
+
+There are *3 PPC shifters*:
+- Change in resource quantity
+- Change in resource quality
+- Change in technology
+
+Change in demand -> **doesn't** shift the curve, the point moves;
+Unemployment -> **doesn't** shift the curve, the point moves *inside the curve*;
+
